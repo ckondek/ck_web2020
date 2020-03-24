@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Chris Kondek's Video Page plus Random Thoughts">
+    <meta name="keywords" content="chris kondek, video, theater, videoart">
+    <meta name="author" content="Chris Kondek">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="scripts/%js_replace%"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inconsolata&family=Montserrat&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/styles.css">
+    <title> %title_replace% </title>
+  </head>

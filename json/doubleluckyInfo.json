@@ -1,0 +1,50 @@
+[
+  {
+		"name": "Dead Cat Bounce",
+		"thumb": "DCB_thumb.jpg",
+		"short": "DCB",
+    "slogan":"Tonight, we don't perform for your money. We perform with it!"
+	},
+  {
+		"name": "Hier ist der Apparat",
+		"thumb": "YAOT_thumb.jpg",
+		"short": "HIDA",
+    "slogan": "My name is Charles Lindbergh"
+	},
+	{
+		"name": "Money: It Came From Outer Space",
+		"thumb": "MONEY_thumb.jpg",
+		"short": "MONEY",
+    "slogan": "Money is an Alien and it's comming for you."
+	},
+  {
+		"name": "SHOOT OUT",
+		"thumb": "SHOOT_thumb.jpg",
+		"short": "SHOOT",
+    "slogan": "Stealing,Drinking,Squatting,Begging,Hunting"
+	},
+	{
+		"name": "Anonymous P.",
+		"thumb": "ANONP_thumb.jpg",
+		"short": "ANONP",
+    "slogan":"Did you know you were leaking passwords"
+	},
+  {
+		"name": "You Are Out There",
+		"thumb": "YAOT_thumb.jpg",
+		"short": "YAOT",
+    "slogan": "The soul is first double of the Body"
+	},
+  {
+		"name": "The Hairs of Your Head are Numbered",
+		"thumb": "HAIRS_thumb.jpg",
+		"short": "HAIRS",
+    "slogan": "Become a tuned-in, turned-on, wired-up member of the theater of the future"
+	},
+  {
+		"name": "True You: We Know How You Feel",
+		"thumb": "TRUE_thumb.jpg",
+		"short": "TRUE",
+    "slogan": "There have always been machines that want to know the truth about you"
+	}
+]
