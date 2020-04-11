@@ -19,30 +19,35 @@ function insertText($textPath,$title,$script){
       <main id="homepage" class="flexContainer">
           <article id='designsArt' class='artBox size40 height45vh fade2 clicker'>
             <h2 class="boxTitle">Video for Theater</h2>
-            <img src="http://d1ua7ibh28zfpl.cloudfront.net/images/DisconnectedChild.jpg">
+            <img loading="eager"src="http://d1ua7ibh28zfpl.cloudfront.net/images/DisconnectedChild.jpg">
           </article>
           <article id='introArt' class='artBox size15 height45vh fade2'>
             <div id='iContainer'>
 
                 <div id="aboutTit" class="i_main clicker">Chris Kondek</div>
                 <div id="i2" class='i_sub'>creates</div>
-                <div id="designsTit" class="i_main clicker">-> Video for Theater</div>
+                <div id="designsTit" class="i_main clicker">&lt- Video for Theater</div>
                 <div id="i4" class="i_sub">and works with</div>
-                <div id="doubleluckyTit" class="i_main clicker">-> doublelucky productions</div>
+                <div id="doubleluckyTit" class="i_main clicker">-&gt doublelucky productions</div>
 
             </div>
 
           </article>
           <article id='doubleluckyArt' class='artBox size25 height45vh fade2 clicker'>
             <h2 class="boxTitle">doublelucky productions</h2>
-            <img src="http://d1ua7ibh28zfpl.cloudfront.net/images/HairsPoster_500.jpg">
+            <img loading="eager" src="http://d1ua7ibh28zfpl.cloudfront.net/images/HairsPoster_500.jpg">
           </article>
-          <article id='a4' class='artBox size20 fade2'>bkj</article>
-          <article id='a5' class='artBox size20 fade2'>yfdjtydd</article>
-          <article id='a6' class='artBox size20 fade2'>zfdzfd</article>
-          <article id='a7' class='artBox size20 fade2'>lih</article>
-          <article id='a8' class='artBox size20 fade2'>dtd</article>
-          <article id='a9' class='artBox size20 fade2'>vhvjhv</article>
+          <article id='theoryArt' class='artBox size20 fade2 clicker'>
+              <h3 class="boxTitle">theory of video</h3>
+          </article>
+
+          <article id='dataArt' class='artBox size20 fade2 clicker'>
+
+          </article>
+          <article id='filmsArt' class='artBox size20 fade2 clicker'>
+            <h2 class="boxTitle">the Videos</h2>
+          </article>
+
       </main>
   </body>
 

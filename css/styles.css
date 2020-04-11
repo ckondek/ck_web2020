@@ -50,12 +50,21 @@ header{
 
 .dbpage{
   width: 20vw;
-  height: 28vw;
+  height: 29vw;
   margin: 0.9vw;
 
   /*border: 2px solid #31393e;*/
   overflow:hidden;
 }
+
+@media only screen and (max-width:1080px){
+  .dbpage{
+    width: 45vw;
+    height: 60vw;
+    margin: 1.5vw;
+  }
+}
+
 
 
 .dbImg:hover{
@@ -126,7 +135,7 @@ img{
   font-style: oblique;
 
   font-size: 1vw;
-  color:grey;
+  color:lightgrey;
   margin: 0.3em;
 
 }
@@ -150,6 +159,9 @@ img{
 }
 .size50{
   width: 50%;
+}
+.size80{
+  width: 80vw;
 }
 .height45vh{
   height:45vh;

@@ -28,13 +28,24 @@ function insertText($textPath,$title,$script){
           echo "<article id='".$show['short']."Pos' class='dbpage clicker'>";
           echo "<div class='overlay'>";
           echo "<p class='dbTitle'>".$show['name']."</p>";
-          echo "<img class='dbImg' src='".$path.$show["thumb"]."'>";
+          echo "<img class='dbImg' loading='eager' src='".$path.$show["thumb"]."'>";
           echo "<p class='dbFooter'>".$show['slogan']."</p>";
           echo "</div>";
           echo "</article>";
         }
-        
+      foreach($showList as $show ){
+        echo "<article id='".$show['short']."Sec' class='size80 i_main'>";
+        echo "<h1>".$show['name']."</h1>";
+        echo "<p id=' ".$show['short']."txt '>";
+        echo file_get_contents("texts/".$show['short'].".txt");
+        echo "</article>";
+
+
+      }
+
+
     ?>
+
 
   </main>
 </body>
