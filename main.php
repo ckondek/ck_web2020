@@ -46,7 +46,7 @@ function insertText($textPath,$title,$script){
           <article id='dataTheoryArt' class='artBox size20 fade2'>
             <section id="videoNotesArt" class="splitBoxEl clicker">
               <h3 class="boxTitle">Theory of Video</h3>
-              <h4>
+              <h4 class='whiteText'>
                 <?php
 
                 insertText("texts/videoNotes.txt","","");
@@ -56,7 +56,7 @@ function insertText($textPath,$title,$script){
 
             <section id="dataTheaterArt" class="splitBoxEl clicker">
               <h3 class="boxTitle">Data_Theater</h3>
-              <h4>
+              <h4 class='whiteText'>
                 <?php
 
                 insertText("texts/dataTheater.txt","","");
