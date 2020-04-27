@@ -15,18 +15,7 @@ body{
   text-align: center;
 }
 
-.splitBoxEl{
-  height:48%;
-  border: 1px solid white;
-  overflow: hidden;
-  font-family: Inconsolata;
-  color:white;
-}
-.splitBoxEl:hover{
-  color: red;
-  cursor:pointer;
 
-}
 
 
 
@@ -76,6 +65,19 @@ header{
     height: 60vw;
     margin: 1.5vw;
   }
+}
+
+.splitBoxEl{
+  height:48%;
+  border: 1px solid white;
+  overflow: hidden;
+  font-family: Inconsolata;
+  color:white;
+}
+.splitBoxEl:hover{
+  color: red;
+  cursor:pointer;
+
 }
 
 
