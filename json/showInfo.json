@@ -1,0 +1,28 @@
+[{
+		"production": "",
+		"premiere_date": "",
+		"where": "",
+		"director": "",
+		"clip_base_name": "",
+		"clip_headline": "",
+		"doku_clip": "",
+		"doku_pics": [""],
+		"credits": "",
+		"slogan": "",
+		"link": ""
+	},
+
+	{
+		"production": "Königsweg",
+		"premiere_date": "",
+		"where": "Schauspielhaus Zürich",
+		"director": "Stefan Pucher",
+		"clip_basename": "THE_KING",
+		"clip_headline": "",
+		"doku_clip": "",
+		"doku_pics": [""],
+		"credits": "",
+		"slogan": "",
+		"link": ""
+	}
+]

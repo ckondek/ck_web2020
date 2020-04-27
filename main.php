@@ -37,14 +37,36 @@ function insertText($textPath,$title,$script){
             <h2 class="boxTitle">doublelucky productions</h2>
             <img loading="eager" src="http://d1ua7ibh28zfpl.cloudfront.net/images/HairsPoster_500.jpg">
           </article>
-          <article id='theoryArt' class='artBox size20 fade2 clicker'>
-              <h3 class="boxTitle">theory of video</h3>
+            <div id="spacerBox"></div>
+          <article id='upcomingArt' class='artBox size20 fade2 clicker'>
+
+              <h3 class="boxTitle"></h3>
           </article>
 
-          <article id='dataArt' class='artBox size20 fade2 clicker'>
+          <article id='dataTheoryArt' class='artBox size20 fade2'>
+            <section id="videoNotesArt" class="splitBoxEl clicker">
+              <h3 class="boxTitle">Theory of Video</h3>
+              <h4>
+                <?php
+
+                insertText("texts/videoNotes.txt","","");
+                ?>
+              </h4>
+            </section>
+
+            <section id="dataTheaterArt" class="splitBoxEl clicker">
+              <h3 class="boxTitle">Data_Theater</h3>
+              <h4>
+                <?php
+
+                insertText("texts/dataTheater.txt","","");
+                ?>
+              </h4>
+
+            </section>
 
           </article>
-          <article id='filmsArt' class='artBox size20 fade2 clicker'>
+          <article id='videosArt' class='artBox size20 fade2 clicker'>
             <h2 class="boxTitle">the Videos</h2>
           </article>
 
