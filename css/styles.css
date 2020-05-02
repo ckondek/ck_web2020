@@ -15,6 +15,26 @@ body{
   text-align: center;
 }
 
+.videoLinks{
+  color:white;
+  font-family: Inconsolata;
+  font-size: 1.2em;
+  
+}
+
+.videoLinks:hover{
+  color:red;
+  cursor:pointer;
+}
+
+.clip_headline{
+  font-family: Inconsolata;
+  font-size: 1.1em;
+  font-style: oblique;
+  color: lightgrey;
+
+}
+
 
 
 

@@ -1,12 +1,18 @@
 [{
 		"production": "",
+		"short_name": "",
 		"premiere_date": "",
 		"where": "",
 		"director": "",
-		"clip_base_name": "",
+		"author": "",
+		"set_designer": "",
+		"costume_designer": "",
+		"clip_basename": "",
 		"clip_headline": "",
+		"clip_thumb": "",
 		"doku_clip": "",
 		"doku_pics": [""],
+		"production_thumb": "",
 		"credits": "",
 		"slogan": "",
 		"link": ""
@@ -14,15 +20,38 @@
 
 	{
 		"production": "Königsweg",
+		"short_name": "Königsweg",
 		"premiere_date": "08.03.2018",
 		"where": "Schauspielhaus Zürich",
 		"director": "Stefan Pucher",
+		"author": "Elfriede Jelinek",
+		"set_designer": "Barbara Ehnes",
+		"costume_designer": "Annabelle Witt",
 		"clip_basename": "THE_KING",
-		"clip_headline": "This clip was a background for a number by the band in Stefan Pucher's production of Königsweg by Elfriede Jellenek. Music by Christopher Uhe, performed by  Becky Lee Walters & Réka Csiszér ",
+		"clip_headline": "Clip for the band in Stefan Pucher's production of Königsweg by Elfriede Jelinek. Music by Christopher Uhe. Performed by Becky Lee Walters & Réka Csiszér ",
+		"clip_thumb": "",
+		"doku_clip": "",
+		"doku_pics": [""],
+		"production_thumb": "",
+		"credits": "",
+		"slogan": "",
+		"link": "http://archiv.schauspielhaus.ch/de/play/959-Am-K%C3%B6nigsweg"
+	},
+	{
+		"production": "Al Gran Sole Carico d'Amore",
+		"short_name": "Al_Gran_Sole",
+		"premiere_date": "14.09.2019",
+		"where": "Theater Basel",
+		"director": "Sebastian Baumgarten",
+		"author": "Luigi Nono",
+		"set_designer": "Janina Audick",
+		"costume_designer": "Christina Schmitt",
+		"clip_basename": "Tape_Recorder_Sc8",
+		"clip_headline": "A 5min video solo for recorded sound in Luigi Nono's Al Gran Sole Carico d'Amore. Carina Braunschmidt as the Angel of History. Costume and Makeup Christina Schmitt",
 		"doku_clip": "",
 		"doku_pics": [""],
 		"credits": "",
 		"slogan": "",
-		"link": "http://archiv.schauspielhaus.ch/de/play/959-Am-K%C3%B6nigsweg"
+		"link": "https://www.theater-basel.ch/Spielplan/Al-gran-sole-carico-damore/oRxBPH3B/Pv4Ya/"
 	}
 ]

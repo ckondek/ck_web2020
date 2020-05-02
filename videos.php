@@ -22,7 +22,11 @@ function insertText($textPath,$title,$script){
     $showList = json_decode(file_get_contents("json/showInfo.json"),TRUE);
       foreach($showList as $show ){
         if ($show['clip_basename']){
-          echo "<p class='movieHref'><a  href='".$path.$show['clip_basename']."_".$show['production']. ".mp4'>THE KING</a></p>";
+          echo "<section class='clipSection'>";
+          echo "<a  class='videoLinks' href='".$path.$show['clip_basename']."_".$show['short_name']. ".mp4'>".$show['clip_basename']."</a>";
+          echo "<p class='clip_headline'>".$show['clip_headline']."</p>";
+          echo "</section>";
+          echo "</br>";
         }
       }
     ?>
