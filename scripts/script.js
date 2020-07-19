@@ -10,7 +10,7 @@ $(window).on("load", function() {
         console.log('clicked on id-> '+this.id);
         if (this.id === 'proceed1'){
                 document.getElementById('startScream').play();
-                $('.fade1').delay(4000).fadeOut(800, function() {
+                $('.fade1').delay(2000).fadeOut(800, function() {
                   document.getElementById('startScream').pause();
                   window.location='main.php';
 

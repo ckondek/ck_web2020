@@ -18,7 +18,7 @@ function insertText($textPath,$title,$script){
       <?php
       insertText("texts/intro_doublelucky.txt",'','');
       ?>
-    </P>
+    </p>
   </header>
   <main id="dbPageContainer" class="flexContainer">
     <?php

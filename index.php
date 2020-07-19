@@ -16,7 +16,7 @@ function insertText($textPath,$title,$script){
   <body>
       <article id="startScreen" class="fade1">
           <h3 id="proceed1" class='clicker'>[ proceed ]</h3>
-          <video id="startScream"  autoplay>
+          <video id="startScream"  >
           <source src='http://d1ua7ibh28zfpl.cloudfront.net/video/video_scream_800.mp4' type="video/mp4">
           </video>
       </article>

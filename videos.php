@@ -23,7 +23,7 @@ function insertText($textPath,$title,$script){
       foreach($showList as $show ){
         if ($show['clip_basename']){
           echo "<section class='clipSection'>";
-          echo "<a  class='videoLinks' href='".$path.$show['clip_basename']."_".$show['short_name']. ".mp4'>".$show['clip_basename']."</a>";
+          echo "<a  class='videoLinks' href='".$path.$show['clip_basename']."_".$show['short_name'].".mp4'>".$show['clip_basename']."</a>";
           echo "<p class='clip_headline'>".$show['clip_headline']."</p>";
           echo "</section>";
           echo "</br>";

@@ -10,6 +10,11 @@ body{
   color:red;
   cursor:pointer;
 }
+
+#proceed1:active{
+  color:yellow;
+  cursor:pointer;
+}
 #startScreen{
   position:relative;
   text-align: center;
@@ -19,7 +24,7 @@ body{
   color:white;
   font-family: Inconsolata;
   font-size: 1.2em;
-  
+
 }
 
 .videoLinks:hover{
@@ -33,6 +38,14 @@ body{
   font-style: oblique;
   color: lightgrey;
 
+}
+
+#designsPageContainer{
+
+}
+.bottom20{
+  margin-top: 60px;
+  margin-bottom: 60px;
 }
 
 
@@ -57,6 +70,11 @@ body{
 .artBox:hover{
   color:red;
   cursor:pointer;
+
+}
+.artTitle{
+  font-size: 2.7em;
+  margin-bottom: 80px;
 
 }
 
@@ -99,9 +117,83 @@ header{
   cursor:pointer;
 
 }
-h4.whiteText{
+.whiteText{
   color: white;
 }
+.upcomingText{
+
+  padding:2px;
+  margin-top: 2px;
+  margin-left: 2px;
+  color:red;
+}
+.tightMarginTop{
+  margin-top: 3px;
+  margin-bottom: 6px;
+}
+
+
+.splitBox4{
+  background-color: black;
+  height:16%;
+  border: 1px solid white;
+  overflow: hidden;
+  font-family: Inconsolata;
+  color:white;
+}
+.splitBox4:hover{
+  height:auto;
+}
+.designPage{
+  margin: auto;
+
+}
+
+.centerText{
+  text-align: center;
+}
+.mainbox{
+
+  display:flex;
+  margin:0;
+}
+
+.mainPict{
+  width:65vw;
+
+}
+.sectionText{
+  position:relative;
+  width:34vw;
+  margin-left: 5px;
+  display:inline-block;
+  font-family: Inconsolata;
+  color:white;
+  margin-left: 1vw;
+}
+.showLink{
+  position:absolute;
+  bottom: 5px;
+  right:5px;
+  color:white;
+
+}
+.showLink:hover{
+  color:red;
+}
+
+.thumbbox{
+  margin-top:5px;
+  display:flex;
+  justify-content:space-between;
+}
+
+.thumbs{
+  width:49%;
+  margin:0;
+
+}
+
 
 
 
@@ -212,6 +304,10 @@ img{
 }
 .size80{
   width: 80vw;
+}
+
+.size90{
+  width: 90vw;
 }
 .height45vh{
   height:45vh;
