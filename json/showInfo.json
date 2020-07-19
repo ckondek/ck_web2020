@@ -1,4 +1,27 @@
 [
+	{
+		"production": "Al Gran Sole Carico d'Amore",
+		"short_name": "alGranSole",
+		"premiere_date": "14.09.2019",
+		"where": "Theater Basel",
+		"director": "Sebastian Baumgarten",
+		"author": "Luigi Nono",
+		"set_designer": "Janina Audick",
+		"costume_designer": "Christina Schmitt",
+		"clip_basename": "Angel_of_History-Tape_Recorder_Scene_8",
+		"clip_headline": "A 5min video solo for Luigi Nono's Al Gran Sole Carico d'Amore. Carina Braunschmidt as the Angel of History. Costume and Makeup Christina Schmitt",
+		"doku_clip": "",
+		"doku_pics": ["algransole_2.jpg","algransole_3.jpg","algransole_4.jpg"],
+		"doku_thumbs": ["pic1_thumb.jpg","pic2_thumb.jpg","pic3_thumb.jpg"],
+		"stills":[""],
+		"credits": "",
+		"slogan": "",
+		"link": "https://www.theater-basel.ch/Spielplan/Al-gran-sole-carico-damore/oRxBPH3B/Pv4Ya/",
+		"include":true,
+		"order":"",
+		"layout":1,
+		"description":""
+	},
 
 	{
 		"production": "Am Königsweg",
@@ -46,29 +69,7 @@
 		"include":false
 
 	},
-	{
-		"production": "Al Gran Sole Carico d'Amore",
-		"short_name": "alGranSole",
-		"premiere_date": "14.09.2019",
-		"where": "Theater Basel",
-		"director": "Sebastian Baumgarten",
-		"author": "Luigi Nono",
-		"set_designer": "Janina Audick",
-		"costume_designer": "Christina Schmitt",
-		"clip_basename": "Angel_of_History-Tape_Recorder_Scene_8",
-		"clip_headline": "A 5min video solo for Luigi Nono's Al Gran Sole Carico d'Amore. Carina Braunschmidt as the Angel of History. Costume and Makeup Christina Schmitt",
-		"doku_clip": "",
-		"doku_pics": ["algransole_2.jpg","algransole_3.jpg","algransole_4.jpg"],
-		"doku_thumbs": ["pic1_thumb.jpg","pic2_thumb.jpg","pic3_thumb.jpg"],
-		"stills":[""],
-		"credits": "",
-		"slogan": "",
-		"link": "https://www.theater-basel.ch/Spielplan/Al-gran-sole-carico-damore/oRxBPH3B/Pv4Ya/",
-		"include":true,
-		"order":"",
-		"layout":1,
-		"description":""
-	},
+
 	{
 		"production": "Fidelio",
 		"short_name": "fidelio",
